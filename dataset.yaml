@@ -1,0 +1,5 @@
+train: proyectoyolo/data/train/images/
+val: proyectoyolo/data/val/images/
+test: 
+nc: 1
+names: ["gato"]
